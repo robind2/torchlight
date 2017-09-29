@@ -4,7 +4,7 @@ Torchlight coding exercise
 Dan Robinson, September 29, 2017
 robind2@gmail.com
 
-This project was completed using an AWS Free Tier EC2 instance, with a simple LAMP stack installed. You can view the project here: 
+This project was completed using an AWS Free Tier EC2 instance, using a version of the LAMP stack that I installed. You can view the project here: 
 
 http://18.220.26.74/
 
