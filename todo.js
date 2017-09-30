@@ -96,7 +96,7 @@ $(document).ready(function(){
 
 	function addTask() {
 
-		if ( typeof parseInt($('#priority').val()) != 'number' || $('#priority').val() < 1) {
+		if ( isNaN($('#priority').val()) || $('#priority').val() < 1) {
 			alert('Invalid Priority! Please enter an integer, 1 or larger.');
 			return false;
 		}
