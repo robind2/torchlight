@@ -1,0 +1,61 @@
+body {
+	font-family: sans-serif, Times;
+}
+
+.table{
+	display: table;
+	width: 100%;
+}
+.tableRow {
+	display: table-row;
+}
+.tableCell {
+	border: 1px solid #999999;
+	display: table-cell;
+	padding: 3px 10px;
+}
+.fixedTableCell {
+	border: 1px solid #999999;
+        display: table-cell;
+        padding: 3px 10px;
+	width: 175px;
+}
+.tableHead {
+	background-color: #99CCFF;
+	font-weight: bold;
+}
+.tableBody {
+	display: table-row-group;
+}
+.tableRow:nth-child(odd) {
+    background: #F5F5F5;
+}
+.tableRow:nth-child(even) {
+    background: #FFFFFF;
+}
+.heading {
+	font-size: 20px;
+	font-weight: bold;
+}
+.button {
+	font-size: 18px;
+}
+.center {
+        position: relative;
+        float: left;
+        left: 45%;
+	padding: 20px;
+}
+.clear {
+	clear: both;
+}
+.label {
+	position: relative; 
+	float: left; 
+	width: 25%;
+}
+.field {
+	position: relative; 
+	float: left; 
+	width: 75%;
+}
