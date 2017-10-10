@@ -1,5 +1,5 @@
 # torchlight
-Torchlight coding exercise
+Simple To-Do list in PHP, MySQL and jQuery
 
 Dan Robinson, September 29, 2017
 robind2@gmail.com
